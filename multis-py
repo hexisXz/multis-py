@@ -8,13 +8,13 @@ print("hi this is a simple program i made in my free time")
 
 
 
-print("if you don't know how to use py-gish type help or press enter to skip this message.")
+print("if you don't know how to use multis-py type help or press enter to skip this message.")
 
 
 
 r = input()
 if r == 'help':
-    print("py-gish is a simple program that updates cleans displays system info and more.")
+    print("multis-py is a simple program that updates cleans displays system info and more.")
 
 
 
@@ -54,9 +54,9 @@ while True:
 
 
  if e == '5':
-     #os.system("neofetch")
+     os.system("neofetch")
      #or if you want to use pfetch
-     os.system("pfetch")
+     #os.system("pfetch")
      
 
 
