@@ -1,1 +1,1 @@
-py-gish is gish but its writen in python.
+multis-py is multis but its writen in python.
