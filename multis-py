@@ -31,7 +31,7 @@ while True:
 
  if e == '1':
     os.system("sudo apt update && sudo apt upgrade -yy")
-
+    #os.system("sudo nala update && sudo nala upgrade -yy")
 
 
 
